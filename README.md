@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayGre
 - 👀 I’m interested in game 
-- 🌱 I’m currently learning game development ar edX
+- 🌱 I’m currently learning game development at edX
 - 💞️ I’m looking to collaborate on with any game developer 
 - 📫 How to reach me emmanuellaamaasamoah@gmail.com
 - 😄 Pronouns: She
